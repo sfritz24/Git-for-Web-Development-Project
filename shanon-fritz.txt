@@ -51,19 +51,35 @@ https://codepen.io/13fritsh/pen/qBOpJZd
     23. How do you select all links within a div with the class of sidebar?
     .sidebar-div a
     24. What is a pseudo selector?
+    allows you to specify a state of that element like :hover
     25. What do we use the change the spacing between lines?
+    line-height
     26. What do we use to change the spacing between letters?
+    letter-spacing
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+    text-transform
     28. How do I add a 1px border around my div that is dotted and black?
+    border: dotted 1px black;
     29. How do I select everything on the page? 
+    * {}
     30. How do I write a comment in CSS?
+    /*comment*/
     31. How do I find out what file I am in, when I am using the command line? 
+    pwd
     32. Using the command line - how do I see a list of files/folders in my current folder?
+    ls
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    rm need to be careful because there is no warning and once its gone its gone forever
     34. Why should I use version control? 
+    it allows you to go back to a previous version without having to save a new file each time
     35. How often should I commit to github?
+    every 20 minutes or when you make a drastic change
     36. What is the command we would use to push our repo up to github? 
+    git push
     37. Walk me through Lambda's git flow. 
+    fork the repo/add tl as collaborator/clone the repo/open git/use commands to get to the desired folder/
+    git clone url/cd into the new folder/create branch/start project/add commit push/new pull request/
+    compare forked project with branch project/add tl for review
 
 Stretch Questions
 
